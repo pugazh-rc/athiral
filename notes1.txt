@@ -1,0 +1,61 @@
+Abstract keyword 
+Abstract keyword is used to declare the method
+Abstract method must be with in Abstract class
+we can't create object for the abstract class.
+
+Inner Class 
+  we can create class inside class.it may static or non static class.
+  we can't create object directely to the inner class.
+
+ Annonymous inner class
+             it does not have class name.
+             we can implemention directly in main method while creating a object.
+
+Interface
+      it has only abstract method.
+      inside the interface we can create variable by declaring as final and static.
+
+FuctionalInterface
+
+ Any interface with a SAM(Single Abstract Method) is a functional interface
+
+lambdaExpression 
+
+Any interface with a SAM(Single Abstract Method) is a functional interface, and its implementation may be treated as lambda expressions
+it is used to reduce the code.
+
+try block - it is used to perform the critical statement
+catch block - it is used to catch the exception thrown by try block
+finally block - it is used to close the resource or declare a new comment
+try ()  block - it is called try with resources 
+
+  Collection Framework:
+
+ *  List
+ * Map
+ * SortedSet
+ * SortedMap
+ * HashSet
+ * TreeSet
+ * ArrayList
+ * LinkedList
+ * Vector
+ * Collections
+ * Arrays
+ * AbstractCollection
+
+List:
+list supports index value.
+allows dublicates.
+
+Set:
+HashSet:
+HashSet does not support index value.
+HashSet does not support dublicates.
+HashSet does not sortted value.
+
+TreeSet:
+TreeSet sortted value.
+
+
+ 
